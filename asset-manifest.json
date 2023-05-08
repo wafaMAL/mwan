@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mwan/static/css/main.7a17ed61.css",
+    "main.js": "/mwan/static/js/main.d7f7895e.js",
+    "index.html": "/mwan/index.html",
+    "main.7a17ed61.css.map": "/mwan/static/css/main.7a17ed61.css.map",
+    "main.d7f7895e.js.map": "/mwan/static/js/main.d7f7895e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a17ed61.css",
+    "static/js/main.d7f7895e.js"
+  ]
+}
